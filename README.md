@@ -1,2 +1,0 @@
-# ashrajagopal
-My Portfolio 
