@@ -5,7 +5,7 @@ import About from  './About';
 import Projects from  './Projects';
 import FunFacts from  './FunFacts';
 
-import profile from './ash_rajagopal.jpg';
+import profile from './images/ash_rajagopal.jpg';
 
 
 class App extends React.Component {
